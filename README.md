@@ -39,6 +39,6 @@ ORDER BY prod.name;
 ```
 
 Результат запроса:
-![Резульатат запроса на выборку](https://raw.githubusercontent.com/WebQuant/MindboxTestTask/main/result.png?token=GHSAT0AAAAAABZVGXZDIGGGM3XDSVQEW5G6Y2AFOMA)
+![Резульатат запроса на выборку](https://github.com/WebQuant/MindboxTestTask/blob/main/result.png)
 
 Протестировано на платформе https://sqliteonline.com/.
