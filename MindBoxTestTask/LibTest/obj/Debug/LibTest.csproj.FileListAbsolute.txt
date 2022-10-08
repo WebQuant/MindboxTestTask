@@ -1,0 +1,11 @@
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\obj\Debug\LibTest.csproj.AssemblyReference.cache
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\obj\Debug\LibTest.csproj.CoreCompileInputs.cache
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\bin\Debug\LibTest.dll
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\bin\Debug\LibTest.pdb
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\bin\Debug\Lib.dll
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\bin\Debug\nunit.framework.dll
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\bin\Debug\Lib.pdb
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\bin\Debug\nunit.framework.xml
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\obj\Debug\LibTest.csproj.CopyComplete
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\obj\Debug\LibTest.dll
+F:\Dev\MindBoxTestTask\MindBoxTestTask\LibTest\obj\Debug\LibTest.pdb

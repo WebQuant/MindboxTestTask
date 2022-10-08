@@ -1,0 +1,10 @@
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\bin\Debug\MindBoxTestTask.exe
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\bin\Debug\MindBoxTestTask.pdb
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\bin\Debug\Lib.dll
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\bin\Debug\Lib.pdb
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\obj\Debug\MindBoxTestTask.csproj.AssemblyReference.cache
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\obj\Debug\MindBoxTestTask.csproj.SuggestedBindingRedirects.cache
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\obj\Debug\MindBoxTestTask.csproj.CoreCompileInputs.cache
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\obj\Debug\MindBoxTestTask.csproj.CopyComplete
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\obj\Debug\MindBoxTestTask.exe
+F:\Dev\MindBoxTestTask\MindBoxTestTask\MindBoxTestTask\obj\Debug\MindBoxTestTask.pdb

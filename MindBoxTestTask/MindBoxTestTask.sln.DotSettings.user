@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=05707ffc_002D0147_002D4150_002Dbc02_002Ddea839d4b75a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CircleAreaCalcTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FAEA2623-9D3D-452F-BAAC-6F8D4DF80314::.NETFramework,Version=v3.5::LibTest.Tests.CircleAreaCalcTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FAEA2623-9D3D-452F-BAAC-6F8D4DF80314::.NETFramework,Version=v3.5::LibTest.Tests.TriangleAreaCalcTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FAEA2623-9D3D-452F-BAAC-6F8D4DF80314::.NETFramework,Version=v3.5::LibTest.Tests.IsTriangleRectangularTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee975fa3_002D0486_002D42d1_002D947c_002Dc7157b263f3d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TriangleAreaCalcTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FAEA2623-9D3D-452F-BAAC-6F8D4DF80314::.NETFramework,Version=v3.5::LibTest.Tests.TriangleAreaCalcTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,6 @@
+F:\Dev\MindBoxTestTask\MindBoxTestTask\Lib\bin\Debug\Lib.dll
+F:\Dev\MindBoxTestTask\MindBoxTestTask\Lib\bin\Debug\Lib.pdb
+F:\Dev\MindBoxTestTask\MindBoxTestTask\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+F:\Dev\MindBoxTestTask\MindBoxTestTask\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+F:\Dev\MindBoxTestTask\MindBoxTestTask\Lib\obj\Debug\Lib.dll
+F:\Dev\MindBoxTestTask\MindBoxTestTask\Lib\obj\Debug\Lib.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTestTask", "MindBoxTestTask\MindBoxTestTask.csproj", "{B3AE34DC-15E4-40FC-8D54-3585FF1091FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{ECBD4661-E890-4454-9A56-7F265005EAB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTest", "LibTest\LibTest.csproj", "{FAEA2623-9D3D-452F-BAAC-6F8D4DF80314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3AE34DC-15E4-40FC-8D54-3585FF1091FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AE34DC-15E4-40FC-8D54-3585FF1091FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AE34DC-15E4-40FC-8D54-3585FF1091FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AE34DC-15E4-40FC-8D54-3585FF1091FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBD4661-E890-4454-9A56-7F265005EAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBD4661-E890-4454-9A56-7F265005EAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBD4661-E890-4454-9A56-7F265005EAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBD4661-E890-4454-9A56-7F265005EAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEA2623-9D3D-452F-BAAC-6F8D4DF80314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEA2623-9D3D-452F-BAAC-6F8D4DF80314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEA2623-9D3D-452F-BAAC-6F8D4DF80314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEA2623-9D3D-452F-BAAC-6F8D4DF80314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
